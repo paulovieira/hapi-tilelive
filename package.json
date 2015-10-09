@@ -1,0 +1,21 @@
+{
+  "name": "hapi-tilelive",
+  "description": "Tilelive wrapper using Hapi",
+  "version": "0.0.1",
+  "repository": "https://github.com/paulovieira/hapi-tilelive.git",
+  "main": "lib/index.js",
+  "keywords": [
+    "tilelive",
+    "mbtiles",
+    "hapi",
+    "plugin"
+  ],
+  "engines": {
+    "node": ">=0.10.38"
+  },
+  "dependencies": {
+    "mbtiles": "^0.8.0",
+    "q": "^1.4.1",
+    "tilelive": "^5.9.1"
+  }
+}
