@@ -1,0 +1,1 @@
+create a route with a list of the currently available tilesets
